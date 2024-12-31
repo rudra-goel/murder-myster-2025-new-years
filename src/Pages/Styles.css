@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+.main-container {
+    position:absolute;
+    background-color: #d3d0c0;
+    font-family: "Abril Fatface", serif;
+}
+
+.welcome-title-container {
+
+    text-align: center;
+    min-height: 100vh;
+
+}
+
+.welcome-name {
+    font-size: 75px;
+    margin-top: .75em;
+    margin-bottom: 0;
+}
+
+.grand-celebration {
+    font-size: 2em;
+    margin-top: 1.5em;
+    margin-bottom: 0;
+}
+.grand-celebration span {
+    font-size: 1.3em;
+}
+
+.anniversary-title {
+    margin-top: 1.5em;
+    font-size: 2em;
+}
+.anniversary-title span{
+    font-size: 1.45em;
+}
+
+.join-us {
+    margin: 1em ;
+}
+.golden-divider {
+    width:100%
+}
+.next-instruction-btn {
+    background-color: transparent;
+    border: 1.5px solid #000000; 
+    border-radius: 3px;
+    padding: 5px 10px;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out; 
+}
+
+.section-divider {
+    margin-top: 1.5em;
+    height: 3px;
+
+}
+
+#div-welcome-charDescription {
+    background-color: #000000;
+}
+
+.character-description {
+    min-height: 100vh;
+    margin: 1em;
+}
+
+.tonight {
+    margin-top: .75em;
+    margin-left: .25em ;
+    font-size: 3em
+}
+.you-are-container {
+    display:grid;
+    grid-template-columns: 35vw 65vw;
+}
+
+.you-are {
+    grid-column-start:2;
+    font-size: 3em
+}
+
+.character-name {
+    margin-top:.5em;
+    text-align: center;
+    font-size: 2.5em
+}
+.character-role {
+    margin-top:.25em;
+    text-align: center;
+    font-size:3em
+}
+
+.personality-container li {
+    margin-top: 1.5em;
+    font-size: 1.2em;
+    font-weight: 100;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.button-container {
+    text-align: center;
+    margin-top:3em;
+}
+
+.character-tasks {
+    margin:1em;
+    height: 100vh
+}
+
+.task-title-container {
+    text-align: center;
+    font-size:2em;
+}
