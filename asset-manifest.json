@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/murder-myster-2025-new-years/static/css/main.fca7c2cd.css",
+    "main.js": "/murder-myster-2025-new-years/static/js/main.a1a226bc.js",
+    "static/js/488.a8dca6db.chunk.js": "/murder-myster-2025-new-years/static/js/488.a8dca6db.chunk.js",
+    "static/media/Divider1.png": "/murder-myster-2025-new-years/static/media/Divider1.b0bd45d21cc1cb0eb463.png",
+    "index.html": "/murder-myster-2025-new-years/index.html",
+    "main.fca7c2cd.css.map": "/murder-myster-2025-new-years/static/css/main.fca7c2cd.css.map",
+    "main.a1a226bc.js.map": "/murder-myster-2025-new-years/static/js/main.a1a226bc.js.map",
+    "488.a8dca6db.chunk.js.map": "/murder-myster-2025-new-years/static/js/488.a8dca6db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fca7c2cd.css",
+    "static/js/main.a1a226bc.js"
+  ]
+}
