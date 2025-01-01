@@ -1,0 +1,58 @@
+.card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 2em;
+    overflow: hidden;
+  }
+  
+  .card-header {
+    background-color: #f0f0f0;
+    border-bottom: 1px solid #ccc;
+    padding: 10px;
+    cursor: pointer;
+    display: grid;
+    grid-template-columns: 20% 60% 20%;
+  }
+  .space {
+    margin-top:.75em;
+    margin-right:1em;
+    border-top: #000000 dashed;
+  }
+  
+  .card-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+
+  }
+  
+  .card-content.open {
+    background: #d6d6d4;
+    max-height: 500px; 
+
+  }
+.card-content-title {
+    margin:1em;
+    font-size: 2em  ;
+}
+.card-content-description {
+    margin: 1em;
+    display: flex;
+    gap: 1em;
+    margin-bottom:1em 
+}
+
+.arrow {
+  text-align: center;
+  border: #000000 solid 1px;
+  padding:.25em;
+  border-radius: .5em;
+}
+
+.task-background {
+  margin:1em
+}
+
+.dhoom  {
+  width: 90vw
+}

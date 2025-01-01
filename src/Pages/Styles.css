@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
 
 .main-container {
-    position:absolute;
+    /* position:relative; */
     background-color: #d3d0c0;
     font-family: "Abril Fatface", serif;
+    margin-top: 0;
 }
 
 .welcome-title-container {
@@ -15,7 +16,7 @@
 
 .welcome-name {
     font-size: 75px;
-    margin-top: .75em;
+    /* margin-top: .75em; */
     margin-bottom: 0;
 }
 
@@ -114,4 +115,33 @@
 .task-title-container {
     text-align: center;
     font-size:2em;
+    margin-bottom: 1.5em;
+}
+
+.breaking-news {
+    height:100vh;
+    margin: 1em;
+}
+
+.breaking-news-title {
+    text-align: center;
+    font-size:3em
+}
+
+.news-title {
+    text-align: center;
+    margin-top:1em;
+    font-size: 1.75em;
+}
+
+.news-body {
+    margin-top:2em   
+}
+
+.news-text {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.bold-reg-text {
+    font-weight: bold;
 }
