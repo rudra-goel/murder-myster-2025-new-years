@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/murder-myster-2025-new-years/static/css/main.88b7c6a4.css",
-    "main.js": "/murder-myster-2025-new-years/static/js/main.fb943ce9.js",
+    "main.js": "/murder-myster-2025-new-years/static/js/main.42892d85.js",
     "static/js/488.a8dca6db.chunk.js": "/murder-myster-2025-new-years/static/js/488.a8dca6db.chunk.js",
     "static/media/Divider1.png": "/murder-myster-2025-new-years/static/media/Divider1.b0bd45d21cc1cb0eb463.png",
     "static/media/Dhoom.jpg": "/murder-myster-2025-new-years/static/media/Dhoom.969e99a8bcca0cbe7185.jpg",
     "index.html": "/murder-myster-2025-new-years/index.html",
     "main.88b7c6a4.css.map": "/murder-myster-2025-new-years/static/css/main.88b7c6a4.css.map",
-    "main.fb943ce9.js.map": "/murder-myster-2025-new-years/static/js/main.fb943ce9.js.map",
+    "main.42892d85.js.map": "/murder-myster-2025-new-years/static/js/main.42892d85.js.map",
     "488.a8dca6db.chunk.js.map": "/murder-myster-2025-new-years/static/js/488.a8dca6db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.88b7c6a4.css",
-    "static/js/main.fb943ce9.js"
+    "static/js/main.42892d85.js"
   ]
 }
