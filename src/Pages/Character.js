@@ -29,7 +29,7 @@ function Character({ characterDescription }) {
     return (
         <div className="main-container">
             <div className="welcome-title-container">
-                <Link to='/'>Home</Link>
+
                 <div className="welcome-name">
                     Welcome {characterDescription.realName}
                 </div>

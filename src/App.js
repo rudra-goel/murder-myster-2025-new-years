@@ -11,7 +11,7 @@ import {Sanjeev, Pravin, Milan, Ashu,
         Ishita, Suhani, Saloni, Lalitha, 
         Nehal, Tanish, Advait, Deepali,
         Amol, Ajit, Neha, Devna, 
-        Basu } from './Characters';
+        Basu, Shreya, Omkar, Nidhi_Malani } from './Characters';
 
 
 function App() {
@@ -49,6 +49,9 @@ function App() {
         <Route path="/07f3d7f0602818e2275ce2c62edbbda6d9e39b5eb9571c4e9d510b6e6a1c02e4" element={<Character characterDescription={Neha} />} /> 
         <Route path="/afc4d79681166c9d7de6f4bc5558d617083aefb2921ae027d6ab133c1772767b" element={<Character characterDescription={Devna} />} /> 
         <Route path="/d18c277cdf0e71b644e59eec61def725c5f1cb913c7d68ba8336532b151ab220" element={<Character characterDescription={Basu} />} /> 
+        <Route path="/d5d9dc386fe4dd2dae4cca1edf2d599782d035d6cdba4ab2ddf615acb3853e30" element={<Character characterDescription={Shreya} />} /> 
+        <Route path="/e9df13e40857f0b79f0f1afb74dac6c16c824c0faf1868111f12bb7551209ed2" element={<Character characterDescription={Omkar} />} /> 
+        <Route path="/70f7d884290cf0815efd3f9995211e4fbc73c88d75aa63e640d7808b45eb0e66" element={<Character characterDescription={Nidhi_Malani} />} /> 
 
 
 

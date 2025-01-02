@@ -109,7 +109,7 @@
 
 .character-tasks {
     margin:1em;
-    height: 100vh
+    min-height: 100vh
 }
 
 .task-title-container {
@@ -119,7 +119,7 @@
 }
 
 .breaking-news {
-    height:100vh;
+    min-height:100vh;
     margin: 1em;
 }
 
